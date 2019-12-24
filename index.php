@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "tugasappserver.database.windows.net";
+    $host = "tugasappserver";
     $user = "admins";
     $pass = "Pa33word";
     $db = "tugasdb";
