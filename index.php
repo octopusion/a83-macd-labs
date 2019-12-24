@@ -28,7 +28,7 @@
  <?php
     $host = "tugasappserver.database.windows.net";
     $user = "admins";
-    $pass = "Pa33word";
+    $pass = "T3mbusss";
     $db = "tugasdb";
 
     try {
